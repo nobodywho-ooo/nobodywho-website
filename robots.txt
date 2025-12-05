@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://nobodywho-ooo.github.io/nobodywho-website/sitemap.xml
+Sitemap: https://nobodywho.ooo/sitemap.xml
