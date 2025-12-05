@@ -1,3 +1,2 @@
 User-agent: *
 Disallow:
-Sitemap: https://nobodywho.ooo/sitemap.xml
