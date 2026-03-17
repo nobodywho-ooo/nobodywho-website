@@ -1,0 +1,10 @@
+{
+    "contacts": [
+        {
+            "email_address": "a@nobodywho.ooo",
+            "matrix_id": "@a:nobodywho.ooo",
+            "role": "m.role.admin"
+        }
+    ],
+    "support_page": "https://etke.cc/help/"
+}
